@@ -19,7 +19,7 @@
 
 ### 1. Create an account on Digital Ocean (DO)
 
-  1a.. Set up a Docker droplet on DO
+  1a. Set up a Docker droplet on DO
   
   1b. Generate SSH keys to access the droplet
   
