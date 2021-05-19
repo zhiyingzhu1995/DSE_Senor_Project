@@ -20,12 +20,7 @@ sta_if.active(True)
 ssid = 'NETGEAR75'
 wifi_pwd = 'orangepiano456'
 
-# Next, write the topic the ESP#1 is subscribed to,
-# and the topic it will be publishing messages:
-topic_sub = b'home/weather'
 
-# To create an MQTT client, we need to get the ESP unique ID
-client_id = ubinascii.hexlify(machine.unique_id())
 
 # check if board the connect to wifi
 if sta_if.isconnected() is False:
