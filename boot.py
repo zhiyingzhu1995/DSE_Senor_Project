@@ -17,8 +17,8 @@ sta_if = network.WLAN(network.STA_IF)
 sta_if.active(True)
 
 
-ssid = 'NETGEAR75'
-wifi_pwd = 'orangepiano456'
+ssid = 'wifi_name'
+wifi_pwd = 'wifi_password'
 
 
 
