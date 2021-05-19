@@ -10,7 +10,8 @@ import bme280
 def connect_and_subscribe():
     
     # MQTT Server IP addresss on Digital Ocean
-    mqtt_server = "167.71.96.74"
+    mqtt_server = <Droplet IP addresss>
+    # my example: mqtt_server = "167.71.96.74"
     
 
     # To create an MQTT client, we need to get the ESP unique ID
