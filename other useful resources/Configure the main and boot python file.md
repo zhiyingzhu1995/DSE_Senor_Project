@@ -2,7 +2,7 @@
 
 	1. Find the local IP address
 		- ```Finding your local IP address is really easy. Head to the Apple menu > System Preferences > Network and then select the connection you are currently using: AirPort (wireless) or Ethernet (wired).```
-		- My IP address is `192.168.1.3`
+		- My IP address is `192.16x.x.x`
 
 	2. edit the main.py and boot.py file
 		a. use `rsync . /pyboard` to sync the file
