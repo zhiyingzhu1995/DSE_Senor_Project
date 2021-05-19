@@ -45,3 +45,13 @@
   5a. Configure boot.py file to connect to wifi
   
   5b. Configure main.py file to publish the collected data to MQTT
+  
+  
+## Final Output
+- When bme280 is already connected to ESP8266 and data are being published to the cloud MQTT ![](image/locally%20publishing%20data%20to%20Cloud%20MQTT%20Broker.png)
+
+- When the Cloud MQTT starts to receive data,![](image/Cloud%20MQTT%20Receiving%20Data.png)
+
+- Grafana UI starts monitoring telegraf metrics![](image/grafana%20monitoring%20telegraf%20metrics.jpg)
+
+- Grafana UI starts monitoring sensor metrics ![](image/grafana%20monitoring%20sensor%20metrics.jpg)
