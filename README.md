@@ -54,4 +54,6 @@
 
 - Grafana UI starts monitoring telegraf metrics![](image/grafana%20monitoring%20telegraf%20metrics.jpg)
 
-- Grafana UI starts monitoring sensor metrics ![](image/grafana%20monitoring%20sensor%20metrics.jpg)
+- Grafana UI starts monitoring sensor metrics 
+  ![](image/grafana%20monitoring%20sensor%20metrics.jpg)
+  ![](image/final%20dashboard.png)
