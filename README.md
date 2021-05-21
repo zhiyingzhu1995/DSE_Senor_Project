@@ -12,8 +12,11 @@
 
 
 ## Software
+- [Digital Ocean](https://cloud.digitalocean.com/)
+- Influxdb
+- Telegraf
+- Grafana
 - MQTT
-- Digital Ocean
 
 ## Brief Set-up Process
 
